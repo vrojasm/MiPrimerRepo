@@ -3,4 +3,4 @@
 Esta es la descripción de mi primer repo
 
 
-Author: Victor Rojas
+Author: Victor Rojas Melgarejo
